@@ -1,0 +1,2 @@
+It is written by Murat Yildiz and Emre Tekgul on platform of Visual Basic .NET for sending SMS with SOAP API.
+This program sends the sms with phone numbers, SOAP API parameters which are included credential, header and so on.
